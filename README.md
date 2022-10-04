@@ -1,5 +1,4 @@
 # ArquitecturaTarea1
-Preguntas 3, 4, 5, y 6 para Tarea 1 de Arquitectura de Computadores
 > Integrantes:
 > - Roberto Artigues
 > - Emilio Meza
