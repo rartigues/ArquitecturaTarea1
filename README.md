@@ -15,6 +15,7 @@ Para ejecutar cualquier pregunta, se debe ingresar a la carpeta de la pregunta c
 gcc preguntaX.c -o out.exe
 ```
 Donde X es el número de la pregunta.
+
 ---
 ### Ejecución
 Con la terminal en la carpeta de la pregunta, se debe ejecutar el siguiente comando:
